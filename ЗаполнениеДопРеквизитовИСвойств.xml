@@ -20,11 +20,13 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.ЗаполнениеДопРеквизитовИСвойств.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.ЗаполнениеДопРеквизитовИСвойств.Form.АкцентНаОбъект</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
 			<Form>Форма</Form>
+			<Form>АкцентНаОбъект</Form>
+			<Form>СвойстваОбъекта</Form>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
