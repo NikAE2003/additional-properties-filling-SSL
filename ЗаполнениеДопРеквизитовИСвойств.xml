@@ -25,6 +25,8 @@
 		</Properties>
 		<ChildObjects>
 			<Form>Форма</Form>
+			<Form>АкцентНаОбъект</Form>
+			<Form>СвойстваОбъекта</Form>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
